@@ -1,0 +1,35 @@
+# Node.js
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Environment Files
+.env
+.env.local
+.env.*.local
+
+# Build Output
+dist/
+build/
+
+# Testing
+coverage/
+test/.
+*.test.js
+
+# IDE Files
+.vscode/
+.idea/
+*.sublime-*  
+
+# OS Specific
+.DS_Store
+Thumbs.db
+
+# Other
+*.swp
+*.swo
+*.lock
